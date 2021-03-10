@@ -20,7 +20,7 @@ user:
   pic: profile.png
   picAlt: "catbook"
   job: Just Developer
-  aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: false # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
