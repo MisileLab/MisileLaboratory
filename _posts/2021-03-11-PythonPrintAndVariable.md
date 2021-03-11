@@ -3,7 +3,6 @@ title: 콘솔 출력과 변수 지정
 categories: [Python]
 comments: true
 ---
-# 파이썬
 ## 파이썬 콘솔 출력
 ```python
 print('LOL')
