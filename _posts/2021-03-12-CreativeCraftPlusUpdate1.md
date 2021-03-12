@@ -1,9 +1,8 @@
 ---
-title: CreativeCraft+ 업데이트 기록 (20200312a)
+title: CreativeCraft+ Update (20200312a)
 categories: [Modpack]
 comments: true
 ---
-## CreativeCraft+ 업데이트 기록 (20200312a)
 
 ## 변경 기록
 
