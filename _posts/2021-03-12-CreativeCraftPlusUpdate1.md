@@ -1,5 +1,5 @@
 ---
-title: 콘솔 출력과 변수 지정
+title: CreativeCraft+ 업데이트 기록 (20200312a)
 categories: [Modpack]
 comments: true
 ---
