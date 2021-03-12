@@ -1,5 +1,5 @@
 ---
-title: CreativeCraftPlus Update (20200312a)
+title: CreativeCraftPlus Update
 categories: [Modpack]
 comments: true
 ---
